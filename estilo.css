@@ -161,7 +161,8 @@ text-align: center;
 
 }
 	.about__picture{
-		max-width: 50%;
+		max-width: 80%;
+		margin-right:20px;
 
 }
 	.about__paragraph{
